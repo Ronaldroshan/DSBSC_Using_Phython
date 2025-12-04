@@ -64,8 +64,7 @@ Output Waveform
 <img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/836598e8-aad7-4877-b204-a5a7adb141a7" />
 
 Tabular Column
-
-![WhatsApp Image 2025-11-21 at 10 58 28_83cd7e2b](https://github.com/user-attachments/assets/fd57cf59-5f1b-4a4a-85ef-6cc8dd10745e)
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/8ecd9edd-b6f4-4334-a736-4ba54e5f4a64" />
 
 Result
 
